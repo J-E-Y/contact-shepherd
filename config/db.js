@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 const config = require('config');
 const db = config.get('mongoURI');
 
-//? Async
+//? 1.Async
 
 const connectDB = async () => {
   try {
@@ -19,7 +19,7 @@ const connectDB = async () => {
   }
 };
 
-//? no Async
+//? 2.no Async
 
 // const connectDB = () => {
 //   mongoose
