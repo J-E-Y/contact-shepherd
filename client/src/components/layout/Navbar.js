@@ -26,7 +26,7 @@ Navbar.propTypes = {
 };
 
 Navbar.defaultProps = {
-  title: 'Contact Keeper',
+  title: 'H1 Shepherd Contact ',
   icon: 'fas fa-id-card-alt',
 };
 
