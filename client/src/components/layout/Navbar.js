@@ -55,7 +55,7 @@ Navbar.propTypes = {
 };
 
 Navbar.defaultProps = {
-  title: 'H1 Shepherd Contact ',
+  title: 'John Jung Contact ',
   icon: 'fas fa-id-card-alt',
 };
 
