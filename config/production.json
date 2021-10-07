@@ -1,0 +1,6 @@
+
+{
+  "mongoURI":"mongodb://john123:john123@contactshepherd-shard-00-00.ywmu4.mongodb.net:27017,contactshepherd-shard-00-01.ywmu4.mongodb.net:27017,contactshepherd-shard-00-02.ywmu4.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-sgt8yy-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "jwtSecret":"secret"
+}
+
