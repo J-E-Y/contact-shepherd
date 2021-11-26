@@ -55,7 +55,7 @@ Navbar.propTypes = {
 };
 
 Navbar.defaultProps = {
-  title: 'John Jung Contact ',
+  title: 'Euiyoung Jung Contacts ',
   icon: 'fas fa-id-card-alt',
 };
 
